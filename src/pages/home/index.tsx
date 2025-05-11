@@ -31,7 +31,7 @@ export default function Home() {
                 asChild
               >
                 <a
-                  href="https://github.com/sumi-0011/Thumbnail-Maker"
+                  href="#"
                   target="_blank"
                 >
                   Star on GitHub
@@ -54,7 +54,7 @@ export default function Home() {
       </Helmet>
       <PaletteProvider>
         <TagProvider>
-          <ThumbnailMaker>  </ThumbnailMaker>
+          <ThumbnailMaker />
         </TagProvider>
       </PaletteProvider>
     </>
