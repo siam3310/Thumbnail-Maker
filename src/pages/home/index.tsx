@@ -54,7 +54,7 @@ export default function Home() {
       </Helmet>
       <PaletteProvider>
         <TagProvider>
-          <ThumbnailMaker />
+          <ThumbnailMaker>  </ThumbnailMaker>
         </TagProvider>
       </PaletteProvider>
     </>
